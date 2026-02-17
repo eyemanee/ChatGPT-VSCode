@@ -40,7 +40,7 @@ The extension is stripped out of Browser capabilities and published as an integr
 
 > If you are developing completely another extension and release it to the public, make sure you follow this.
 
-This project is released under GNU General Public License v3.0 License - See root License for details. Copyright notice and the respective permission notices must appear in all copies.
+This project is released under **ISC** License - See root License for details. Copyright notice and the respective permission notices must appear in all copies.
 
 ## How to build and run
 
