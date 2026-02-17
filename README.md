@@ -20,16 +20,9 @@
 >
 > \*Downloaded by ~500,000 developers with more than 100 5 star ratings within 3 months of release
 
-#### Try out this extension on marketplace: [ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
+#### Try out this extension on marketplace: NOT AVAILABLE YET
 
-The extension is stripped out of Browser capabilities and published as an integration point for community to continue utilizing GPT models in Sidebar conversations or responses in editor, favorites, personalization and more.
-
-## Forks and continuation of the original project
-
-> Feel free to contribute here.
-
-1. Continued by [ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
-2. Forked by @Christopher-Hayes: [ChatGPT Reborn](https://marketplace.visualstudio.com/items?itemName=chris-hayes.chatgpt-reborn)
+The extension is stripped out of Browser capabilities and published as an integration point for community to continue utilizing GPT models in Sidebar conversations or responses in editor, favorites, personalization and more !
 
 ## Features
 
@@ -47,7 +40,7 @@ The extension is stripped out of Browser capabilities and published as an integr
 
 > If you are developing completely another extension and release it to the public, make sure you follow this.
 
-This project is released under ISC License - See root License for details. Copyright notice and the respective permission notices must appear in all copies.
+This project is released under GNU General Public License v3.0 License - See root License for details. Copyright notice and the respective permission notices must appear in all copies.
 
 ## How to build and run
 
